@@ -1,3 +1,3 @@
-# Git practice
+# Gerenciador de Atividades da Minha Rotina
 
-My first Git repository.
+Nada para ver aqui ainda! :p
